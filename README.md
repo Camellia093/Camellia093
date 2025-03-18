@@ -91,25 +91,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vue,apple,css,discord,github,html,js,linux,mysql,npm,ps,pr,pinia,postman,c,vim" />
-  </a>
-</p>
-
-
-
-
-
-
-
-
-
-<p align="center">
-
-  <a href="https://skillicons.dev">
-
     <img src="https://skillicons.dev/icons?i=git,vue,apple,css,discord,github,html,js,linux,mysql,npm,ps,pr,pinia,postman,twitter,ts,py,pycharm,vite,vscode,c,vim" />
-
   </a>
-
 </p>
+
 
