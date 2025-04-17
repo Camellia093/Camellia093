@@ -3,8 +3,8 @@
 
 A passionate full-stack developer driven by efficient problem-solving, elegant code, and pursuit of peak performance.  
 
-- 🔭 **Current Projects:** [helpcode](https://github.com/Camellia093/CodeHub)  
-- 🌱 **Currently Learning:** Spring Boot, JavaScript  
+- 🔭 **Current Projects:** [HelpCode](https://github.com/Camellia093/CodeHub)  
+- 🌱 **Currently Learning:** Spring Boot, JavaScript, Move
 - 💬 **Interests:** Web development, software engineering, artificial intelligence  
 - 📫 **Contact:** [E-mail](mailto:Yao050224@outlook.com)  
 
