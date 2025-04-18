@@ -49,6 +49,6 @@ A passionate full-stack developer driven by efficient problem-solving, elegant c
 
 <p align="center">  
   <a href="https://skillicons.dev">  
-    <img src="https://skillicons.dev/icons?i=java,js,vue,spring,vscode,git,move,mysql,linux,ts,html,css" alt="Skill Icons" />  
+    <img src="https://skillicons.dev/icons?i=java,js,vue,spring,vscode,git,mysql,linux,ts,html,css" alt="Skill Icons" />  
   </a>  
 </p>
