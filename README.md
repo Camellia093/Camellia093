@@ -13,7 +13,7 @@ A passionate full-stack developer driven by efficient problem-solving, elegant c
 ## Tech Stack  
 
 <div align="center">  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />  
+  <img src="https://img.shields.io/badge/Move-FF5733?style=for-the-badge&logo=none&logoColor=white" alt="Move" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />  
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />  
